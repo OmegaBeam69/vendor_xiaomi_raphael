@@ -440,7 +440,6 @@ PRODUCT_PACKAGES += \
     libmmrtpdecoder_proprietary \
     libmmrtpencoder_proprietary \
     libsmwrapper \
-    libsn100u_fw \
     libwfdcodecv4l2_proprietary \
     libwfdcommonutils_proprietary \
     libwfdconfigutils_proprietary \
