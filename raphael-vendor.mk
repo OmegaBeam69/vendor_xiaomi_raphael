@@ -679,6 +679,7 @@ PRODUCT_PACKAGES += \
     libsettings \
     libsi \
     libslimclient \
+    libsn100u_fw \
     libsnpe_dsp_domains_v2 \
     libsns_device_mode_stub \
     libsns_fastRPC_util \
